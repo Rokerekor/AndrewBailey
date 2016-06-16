@@ -1,0 +1,12 @@
+LagRestricter: 20
+RangeSettings:
+  MaxProximity: 0
+  EnforceOnExistingSigns: false
+  
+database: flatfile
+mysql:
+  hostname: ''
+  port: '3306'
+  databasename: ''
+  username: ''
+  password: ''

@@ -1,0 +1,25 @@
+- 1.0
+	-Release
+- 1.1
+	-Added Metrics Support
+	-Flatfile support
+- 1.2
+	-Recoded internal proximity storage to be more stable.
+	-Fixed proximities sometimes not working after creating deleting some proximities.
+	-Fixed proximities not deleting properly when the block underneath them is broken.
+	-Checks for proximities deleted by other methods on plugin loadup, this will fix any proximities that have been deleted by world edit or similar methods.
+    -Fixed plugin registering the command /proximity
+    -Added 'LagRestrict' setting to control how many calculations are done per tick. Higher = more resources, faster response time from proximites, lower = less resources slower response time.
+    -Increased default 'LagRestrict' to make proximities respond faster.
+- 1.3
+	-Added Float Support to proximity radius
+	-Updated to 1.6.2
+	-Fixed player not receiving feedback after destroying a proximity sign if the server was using flatfile storage.
+- 1.3.1
+	-Updated to 1.7.9
+- 1.4
+	-Added Max Proximity range setting in config.
+	-Added ability to enforce max range on existing Proximity Detectors.
+	-Added colours to signs.
+- 1.5
+	-Proximity Detectors now power the block above them.
