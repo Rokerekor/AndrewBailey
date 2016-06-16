@@ -1,0 +1,9 @@
+name: Conway
+main: ca.shaw.andrewbailey.Conway
+version: 0.1
+commands:
+   conway:
+      description: LIFE UH, UH, UH, FINDS A WAY
+      usage: /conway
+      permission: conway.conway
+      permission-message: You don't have permission to do this.

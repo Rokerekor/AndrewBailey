@@ -1,0 +1,55 @@
+FirstCorner:
+  World: TEMP
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+SecondCorner:
+  World: TEMP
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+UpArrow:
+  World: TEMP
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+DownArrow:
+  World: TEMP
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+LeftArrow:
+  World: TEMP
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+RightArrow:
+  World: TEMP
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+StartButton:
+  World: TEMP
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+LeaderBoard:
+  World: TEMP
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+ScoreBoard:
+  World: TEMP
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+HighScores:
+  1:
+    Name: MetalFingerz
+    Score: 30
+  2:
+    Name: MFDOOM
+    Score: 20
+  3:
+    Name: Geedorah
+    Score: 10

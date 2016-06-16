@@ -1,0 +1,3 @@
+name: LandMine
+main : com.bukkit.Queepo.LandMine.LandMine
+version: 0.2

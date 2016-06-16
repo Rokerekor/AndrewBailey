@@ -1,0 +1,6 @@
+v0.2 
+    -Added Wooden Pressure Plates
+    -Added removing mines
+    -Added Permissions Support
+v0.1  Tested 232
+    -Release
